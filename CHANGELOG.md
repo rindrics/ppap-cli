@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.1.1](https://github.com/rindrics/ppap-cli/compare/v0.1.0...v0.1.1) - 2026-08-28
+
+- build(deps): update zip requirement from 7.2.0 to 8.1.0 by @dependabot[bot] in https://github.com/rindrics/ppap-cli/pull/13
+- build(deps): bump actions/checkout from 6 to 7 by @dependabot[bot] in https://github.com/rindrics/ppap-cli/pull/17
+- build(deps): update base64 requirement from 0.22.1 to 0.23.1 by @dependabot[bot] in https://github.com/rindrics/ppap-cli/pull/21
+
 ## [v0.1.0](https://github.com/Rindrics/ppap-cli/commits/v0.1.0) - 2026-02-03
 - ci: setup tagpr by @Rindrics in https://github.com/Rindrics/ppap-cli/pull/2
 - feat: provide security options by @Rindrics in https://github.com/Rindrics/ppap-cli/pull/3
